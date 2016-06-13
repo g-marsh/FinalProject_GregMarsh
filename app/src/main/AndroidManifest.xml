@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.oakton.cis258.finalproject_gregmarsh">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/alge">
+        <activity android:name=".UserInfo2Activity" />
+        <activity android:name=".Date3Activity" />
+        <activity android:name=".Favorites4Activity" />
+        <activity android:name=".Spinners4BActivity" />
+        <activity android:name=".SelectMovie5Activity" />
+        <activity android:name=".SelectMovieCharacter6Activity" />
+        <activity android:name=".MoviePicture7Activity" />
+        <activity android:name=".SelectTV6Activity" />
+        <activity android:name=".SelectCharacter7Activity" />
+        <activity android:name=".Picture8Activity" />
+        <activity android:name=".View9Activity" />
+        <activity android:name=".Menu3Activity" />
+        <activity android:name=".Settings1Activity" />
+        <activity android:name=".Login2Activity" />
+        <activity android:name=".Reset2BActivity" />
+        <activity android:name=".Notify0Activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".TipCalculatorActivity"></activity>
+    </application>
+
+</manifest>

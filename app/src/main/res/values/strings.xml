@@ -1,0 +1,235 @@
+<resources>
+    <string name="app_name">FinalProject_GregMarsh</string>
+    <string name="enter_info">Enter Info</string>
+    <string name="click_to_set">Click To Set</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="username">Username:</string>
+    <string name="username_password">Update username/password</string>
+    <string name="email">Email:</string>
+    <string name="state_born">State Born In:</string>
+    <string name="birthday">Birthday:</string>
+    <string name="gender">Gender:</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="next">Next</string>
+    <string name="birthday_month_day">Birthday m/d:</string>
+    <string name="sport">Sport:</string>
+    <string name="color">Color:</string>
+    <string name="menu">Menu</string>
+    <string name="favorite_color">Favorite Color</string>
+    <string name="favorite_food">Favorite Food</string>
+    <string name="favorite_band">Favorite Band</string>
+    <string name="favorite_movie">Favorite Movie</string>
+    <string name="favorite_sport">Favorite Sport</string>
+    <string name="favorite_show">Favorite Show</string>
+    <string name="favorite_actor">Favorite Actor</string>
+    <string name="favorites">Update Favorites</string>
+    <string name="view">View Info</string>
+    <string name="display_information">Display Information</string>
+    <string name="update">Update</string>
+    <string name="label_username">Username:</string>
+    <string name="label_password">Password:</string>
+    <string name="confirm_password">Confirm Password:</string>
+    <string name="login">Login</string>
+    <string name="reset_password">Reset Username / Password</string>
+    <string name="notify_account">An account must be created to continue.</string>
+    <string name="continue_click">Continue</string>
+    <string name="shows">Select Shows</string>
+    <string name="tip_calculator">Tip Calculator</string>
+    <string name="bill_amount">Bill Amount $</string>
+    <string name="tip_percentage">Tip Percentage</string>
+    <string name="percentage">Percentage</string>
+    <string name="tip">Tip</string>
+    <string name="total">Total</string>
+    <string name="ten">10</string>
+    <string name="calculate">Calculate</string>
+    <string name="fifteen">15</string>
+    <string name="twenty">20</string>
+    <string name="reset_info">Reset Information Entered</string>
+
+    <!-- Buffy Characters -->
+    <string name="buffy_act">Sarah Gellar</string>
+    <string name="willow_act">Alyson Hannigan</string>
+    <string name="xander_act">Nicholas Brendon</string>
+    <string name="rupert_act">Anthony Head</string>
+    <string name="angel_act">David Borneau</string>
+    <string name="spike_act">James Marsters</string>
+
+    <!-- Angel Characters + Buffy presequels -->
+    <string name="cordelia_act">Charisma Carpenter</string>
+    <string name="wesley_act">Alexis Denisof</string>
+    <string name="illyria_act">Amy Acker</string>
+    <string name="charles_act">August Richards</string>
+    <string name="lorne_act">Andy Hallet</string>
+
+    <!-- BH90210 Characters -->
+    <string name="kelly_act">Jennie Garth</string>
+    <string name="donna_act">Tori Spelling</string>
+    <string name="brandon_act">Jason Priestley</string>
+    <string name="brenda_act">Shannen Doherty</string>
+    <string name="dylan_act">Luke Perry</string>
+    <string name="david_act">Brian Green</string>
+
+    <!-- Melrose Characters -->
+    <string name="amanda_act">Heather Locklear</string>
+    <string name="jake_act">Grant Show</string>
+    <string name="billy_act">Andrew Shue</string>
+    <string name="sydney_act">Laura Leighton</string>
+    <string name="michael_act">Thomas Calabro</string>
+    <string name="jane_act">Josie Bissett</string>
+
+    <!-- Magnum Characters -->
+    <string name="magnum_act">Tom Seleck</string>
+    <string name="higgins_act">John Hillerman</string>
+    <string name="tc_act">Roger Mosley</string>
+    <string name="rick_act">Larry Manetti</string>
+    <string name="carol_act">Kathleen Lloyd</string>
+    <string name="allison_act">Courtney Thorne-Smith</string>
+    <string name="update_user_info">Update User Information</string>
+
+    <string-array name="sport">
+        <item>Golf</item>
+        <item>Bicycling</item>
+        <item>Dancing</item>
+        <item>Ultimate</item>
+        <item>Weightlifting</item>
+        <item>Cross County Skiing</item>
+        <item>Crossfit</item>
+    </string-array>
+
+    <string-array name="color">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>Blue</item>
+        <item>Brown</item>
+        <item>Teal</item>
+        <item>Cyan</item>
+        <item>Aqua</item>
+        <item>Purple</item>
+        <item>White</item>
+        <item>Black</item>
+        <item>Crimson</item>
+    </string-array>
+
+    <!-- Movies Info -->
+    <string-array name="movies">
+
+        <item>Forest Gump</item>
+        <item>Top Gun</item>
+        <item>Gone with the Wind</item>
+        <item>Army of Darkness</item>
+        <item>Saving Private Ryan</item>
+    </string-array>
+
+    <!-- Gone with Wind -->
+    <string-array name="gone_actors">
+        <item>Scarlett O\'Hara</item>
+        <item>Rhett Butler</item>
+        <item>Melanie Hamilton</item>
+    </string-array>
+
+    <string name="scarlett_act">Vivien Leigh</string>
+    <string name="rhett_act">Clark Gable</string>
+    <string name="melanie_act">Oliva de Havilland</string>
+
+    <!-- Darkness -->
+    <string-array name="darkness_actors">
+        <item>Ash Williams</item>
+        <item>Sheila</item>
+        <item>Lord Arthru</item>
+    </string-array>
+
+    <string name="ash_act">Bruce Campbell</string>
+    <string name="sheila_act">Embeth Davidtz</string>
+    <string name="arthur_act">Marcus Gilbert</string>
+
+    <!-- Private Ryan -->
+    <string-array name="ryan_actors">
+        <item>Captain Miller</item>
+        <item>Private Ryan</item>
+        <item>Private Caparzo</item>
+    </string-array>
+
+    <string name="miller_act">Tom Hanks</string>
+    <string name="ryan_act">Matt Damon</string>
+    <string name="caparzo_act">Vin Diesel</string>
+
+    <!-- Top Gun -->
+    <string-array name="top_actors">
+        <item>Maverick</item>
+        <item>Charlie</item>
+        <item>Iceman</item>
+    </string-array>
+
+    <string name="maverick_act">Tom Cruise</string>
+    <string name="charlie_act">Kelly McGillis</string>
+    <string name="iceman_act">Val Kilmer</string>
+
+    <!-- Forest Gump -->
+    <string-array name="forest_actors">
+        <item>Forest</item>
+        <item>Jenny</item>
+        <item>Lieutenant Dan</item>
+    </string-array>
+
+    <string name="forest_act">Tom Hanks</string>
+    <string name="jenny_act">Robin Wright</string>
+    <string name="lieutenat_act">Gary Sinise</string>
+
+    <!-- TV Info -->
+    <string-array name="shows">
+        <item>Buffy the Vampire Slayer</item>
+        <item>Angel</item>
+        <item>Beverly Hills 90210</item>
+        <item>Melrose Place</item>
+        <item>Magnum PI</item>
+    </string-array>
+
+    <string-array name="buffy_actors">
+        <item>Buffy</item>
+        <item>Willow</item>
+        <item>Xander</item>
+        <item>Rupert</item>
+        <item>Angel</item>
+        <item>Spike</item>
+    </string-array>
+
+    <string-array name="angel_actors">
+        <item>Angel</item>
+        <item>Cordelia</item>
+        <item>Wesley</item>
+        <item>Illyria</item>
+        <item>Charles</item>
+        <item>Lorne</item>
+    </string-array>
+
+    <string-array name="beverly_actors">
+        <item>Kelly</item>
+        <item>Donna</item>
+        <item>Brandon</item>
+        <item>Brenda</item>
+        <item>Dylan</item>
+        <item>David</item>
+    </string-array>
+
+    <string-array name="melrose_actors">
+        <item>Amanda</item>
+        <item>Jake</item>
+        <item>Billy</item>
+        <item>Sydney</item>
+        <item>Michael</item>
+        <item>Jane</item>
+    </string-array>
+
+    <string-array name="magnum_actors">
+        <item>Magnum</item>
+        <item>Higgins</item>
+        <item>TC</item>
+        <item>Rick</item>
+        <item>Carol</item>
+        <item>Allison</item>
+    </string-array>
+
+</resources>
